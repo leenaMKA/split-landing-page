@@ -1,0 +1,1 @@
+Create a split animated landing page using HTML5, CSS3 transitions and a bit of vanilla JavaScript. We will also be using CSS variables aka custom properties.
